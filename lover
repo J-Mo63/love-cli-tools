@@ -1,0 +1,3 @@
+#!/bin/bash
+VARIABLE=${1:-"."}  
+open -a love $VARIABLE
