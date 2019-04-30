@@ -1,15 +1,15 @@
-# LOVE CLI Tools
+# LÖVE CLI Tools
 
-This is a set of commands for OSX that alias LOVE Engine tools to make them easier to manage.
+This is a set of commands for OSX that alias LÖVE Engine tools to make them easier to manage.
 
 ## Installation
 
 Before usage you must have installed:
-- LOVE (can be installed with the application file from thier website)
+- LÖVE (can be installed with the application file from thier website)
 
 ## Usage
 
-Run a LOVE program:
+Run a LÖVE program:
 ```
 lover <path to file - "./main.lua" by default>
 ```
